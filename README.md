@@ -121,7 +121,7 @@ here blocks every user, not just the one who clicked.
 No credentials, no bank, no ERP, no Snowflake.
 
 ```bash
-git clone https://github.com/chino-bot1701/bank-reconciliation-h2h.git
+git clone https://github.com/Paz-RangelR/bank-reconciliation-h2h.git
 cd bank-reconciliation-h2h
 Rscript -e 'install.packages(c("dplyr","stringr","digest"))'
 Rscript scripts/run_demo.R
